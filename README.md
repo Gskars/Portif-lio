@@ -1,4 +1,4 @@
-#<h1><strong>Portifólio Profissional</strong></h1>
+<h1><strong>Portifólio Profissional</strong></h1>
 <h2>Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.</h1>
 
 <h1><strong>Tecnologias</strong>:
