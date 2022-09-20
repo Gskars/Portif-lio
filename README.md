@@ -1,5 +1,5 @@
 # Portifólio
-<h2> ImersãoDev,
+<h2> 
 projeto Construído na ImersãoDev da Alura</h2>
 ![pt](pt.png)
 
