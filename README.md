@@ -1,6 +1,6 @@
 # Portifólio
 <h2> 
-projeto Construído na ImersãoDev da Alura</h2>
+Projeto Construído na ImersãoDev da Alura</h2>
 ![pt](pt.png)
 
 Hospedagem do Site : https://gskars.github.io/Portif-lio/
