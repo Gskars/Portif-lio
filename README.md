@@ -1,5 +1,5 @@
-# Meu Portifólio - Desenvolvido na "ImersãoDev"
-<Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.
+# <strong>Meu Portifólio</strong>
+><h1>Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.</h1>
 
 <h1><strong>Tecnologias</strong>:
 <ul>
