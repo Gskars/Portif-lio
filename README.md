@@ -8,6 +8,7 @@ Hospedagem do Site :
 - HTML
 - CSS
 - GIT E GIHUB
+- JAVASCRIPT
 # Contatos:
 - Tel: (19)983006268
 - Email: gscardazi@gmail.com
