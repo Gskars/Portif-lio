@@ -4,7 +4,7 @@ Projeto Construído na "ImersãoDev" da Alura
 ![pt](pt.png) 
 
 Hospedagem do Site : https://gskars.github.io/Portif-lio/
-## Tecnologias :
+# Tecnologias :
 - HTML
 - CSS
 - GIT E GIHUB
