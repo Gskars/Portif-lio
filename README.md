@@ -3,7 +3,7 @@
 PROJETO CONSTRUÍDO NA "IMERSÃODEV" DA ALURA
 ![pt](pt.png) 
 
-Hospedagem do Site : https://gskars.github.io/Portif-lio/
+HOSPEDAGEM DO SITE : https://gskars.github.io/Portif-lio/
 # Tecnologias :
 - HTML
 - CSS
