@@ -1,5 +1,6 @@
 # <strong>Meu Portifólio</strong>
 <h1>Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.</h1>
+![pt](https://user-images.githubusercontent.com/112108655/191360807-21e19854-1cea-4f18-bb80-9a26536f0995.png)
 <h1><strong>Tecnologias</strong>:
 <ul>
 <li>
