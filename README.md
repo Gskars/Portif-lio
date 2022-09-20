@@ -1,9 +1,9 @@
-#NLW e-Sports 
-> Trilha Explorer
-Projeto Construído na Next Level Week da Rocketseat
+#<h1>Portifólio</h1>
+> ImersãoDev
+Projeto Construído na ImersãoDev da Alura
 ![pt](pt.png)
 
-Hospedagem do Site :https://6325ec9c36b4195ce3d164bb--teal-faun-8dc436.netlify.app/
+Hospedagem do Site :
 ## Tecnologias :
 - HTML
 - CSS
