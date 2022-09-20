@@ -1,30 +1,15 @@
-<h1><strong>Portifólio Profissional</strong></h1>
-<h3>Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.</h3>
+#NLW e-Sports 
+> Trilha Explorer
+Projeto Construído na Next Level Week da Rocketseat
+![preview](preview.png)
 
-<h1><strong>Tecnologias</strong></h1>:
-<ul>
-<li>
-HTML5
-</li>
-<li>
-CSS3
-</li>
-<li>
-GIT E GITHUB
-</li>
-<li>
-JAVASCRIPT
-</li>
-</ul>
-<h1><strong>Contatos:</strong>
-<ul>
-<li>
-Tel: (19)983006268
-</li>
-<li>
-Email: gscardazi@gamil.com
-</li>
-<li>
-Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
-</li>
+Hospedagem do Site :https://6325ec9c36b4195ce3d164bb--teal-faun-8dc436.netlify.app/
+## Tecnologias :
+- HTML
+- CSS
+- GIT E GIHUB
+# Contatos:
+- Tel: (19)983006268
+- Email: gscardazi@gmail.com
+- Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
