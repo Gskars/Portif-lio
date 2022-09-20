@@ -1,7 +1,7 @@
 <h1><strong>Portifólio Profissional</strong></h1>
 <h3>Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.</h3>
 
-<h1><strong>Tecnologias</strong>:
+<h1><strong>Tecnologias</strong></h1>:
 <ul>
 <li>
 HTML5
