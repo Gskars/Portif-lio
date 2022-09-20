@@ -1,7 +1,7 @@
 #NLW e-Sports 
 > Trilha Explorer
 Projeto Construído na Next Level Week da Rocketseat
-![preview](preview.png)
+![pt](pt.png)
 
 Hospedagem do Site :https://6325ec9c36b4195ce3d164bb--teal-faun-8dc436.netlify.app/
 ## Tecnologias :
