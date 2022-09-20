@@ -1,5 +1,5 @@
-# <strong>Meu Portifólio</strong>
-><h1>Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.</h1>
+#<h1><strong>Portifólio Profissional</strong></h1>
+<h2>Portifólio profissional desenvolvido durante a semana da "ImersãoDev", evento proporcionado pela Alura.</h1>
 
 <h1><strong>Tecnologias</strong>:
 <ul>
@@ -27,3 +27,4 @@ Email: gscardazi@gamil.com
 <li>
 Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 </li>
+
