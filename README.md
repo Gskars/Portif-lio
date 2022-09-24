@@ -10,7 +10,6 @@ HOSPEDAGEM DO SITE : https://632e4eeab8f80110c0c89efa--effortless-blancmange-ad0
 - GIT E GIHUB
 - JAVASCRIPT
 # Contatos:
-- Tel: (19)983006268
 - Email: gscardazi@gmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
