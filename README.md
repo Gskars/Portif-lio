@@ -7,7 +7,7 @@ HOSPEDAGEM DO SITE : https://632e4eeab8f80110c0c89efa--effortless-blancmange-ad0
 # Tecnologias: 
 - HTML
 - CSS
-- GIT E GIHUB
+- GIT E GItHUB
 - JAVASCRIPT
 # Contatos:
 - Email: gscardazi@hotmail.com
