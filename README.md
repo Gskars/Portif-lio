@@ -3,7 +3,9 @@
 PROJETO CONSTRUÍDO NA "IMERSÃODEV" DA ALURA
 ![pt](pt.png) 
 
-HOSPEDAGEM DO SITE : https://632e4eeab8f80110c0c89efa--effortless-blancmange-ad04e1.netlify.app/
+<h2>HOSPEDAGEM DO SITE:</h2>   https://632e4eeab8f80110c0c89efa--effortless-blancmange-ad04e1.netlify.app/
+
+
 # Tecnologias: 
 - HTML
 - CSS
